@@ -1,4 +1,4 @@
-# Building a Car Detection and Tracking using a Classifier
+# Car Detection and Tracking
 ### Udacity - Self-Driving Car NanoDegree
 
 **Author:** Bryan Rosales
